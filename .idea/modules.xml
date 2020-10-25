@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-00-LooselyCouples/Spring-00-LooselyCouples.iml" filepath="$PROJECT_DIR$/Spring-00-LooselyCouples/Spring-00-LooselyCouples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" filepath="$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" filepath="$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spring-02-DI-ConsractorInjection/Spring-02-DI-ConsractorInjection.iml" filepath="$PROJECT_DIR$/Spring-02-DI-ConsractorInjection/Spring-02-DI-ConsractorInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-02-DI-ConstructorInjection./Spring-02-DI-ConstructorInjection..iml" filepath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection./Spring-02-DI-ConstructorInjection..iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-02-DI-SetterInjection/Spring-02-DI-SetterInjection.iml" filepath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/Spring-02-DI-SetterInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/Spring-03-BeanScope-Singleton-Prototype.iml" filepath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/Spring-03-BeanScope-Singleton-Prototype.iml" />
     </modules>
   </component>
 </project>
