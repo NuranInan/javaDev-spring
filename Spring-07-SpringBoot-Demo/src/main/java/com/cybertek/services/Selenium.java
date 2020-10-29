@@ -1,4 +1,8 @@
 package com.cybertek.services;
 
-public class Selenium {
+import com.cybertek.interfaces.Course;
+
+public class Selenium implements Course {
+    @Override
+    public int getTeachingHours() { return 10; }
 }
